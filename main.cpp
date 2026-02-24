@@ -1,5 +1,5 @@
 //
-// Created by Antonis Georgosopoulos and George Kaitartzis on 6/2022.
+// Created by Antonis Georgosopoulos on 6/2022.
 //
 
 #include <iostream>
@@ -211,3 +211,4 @@ int main() {
     return 0;
 
 }
+
